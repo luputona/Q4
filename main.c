@@ -44,7 +44,11 @@ void main()
 
 	printf("문자형 : %d \n", sizeof(char));
 	printf("정수형 : %d \n", sizeof(int));
+	printf("정수형 : %d \n", sizeof(short));
+	printf("정수형 : %d \n", sizeof(long long));
 	printf("실수형 : %d \n", sizeof(float));
+	printf("실수형 : %d \n", sizeof(double));
+
 
 
 
